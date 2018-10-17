@@ -3,7 +3,7 @@
   "description": "An easy to install ModMail bot for Discord - DM to contact mods!",
   "repository": "https://github.com/kyb3r/modmail",
   "env": {
-    "TOKEN": {NTAyMDM4ODYzNjA3MzY1NjMz.DqiPeg.uFu4ehOZGZ2BnSu7qObrY-i1o-M}
+    "TOKEN": {NTAyMDM4ODYzNjA3MzY1NjMz.DqiTUQ.hcJSVbAnXdMrPIZW2v_Sls6G7s4}
         "description": "Your discord bot's token.",
         "required": true
     },
